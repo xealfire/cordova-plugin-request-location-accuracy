@@ -29,6 +29,13 @@ Cordova Request Location Accuracy Plugin [![Latest Stable Version](https://img.s
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+    Changed
+    com.google.android.gms:play-services-location:15+
+    to
+    com.google.android.gms:play-services-location:11.6.2
+    
+    to match with phonegap-plugin-push 2.1.3
+
 # Overview
 
 This Cordova/Phonegap plugin for Android and iOS to request enabling/changing of Location Services by triggering a native dialog from within the app, avoiding the need for the user to leave your app to change location settings manually.
